@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7AGU424Q34.com.nixsolutions.carsoup",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "4YKMFV5JRB.com.carsoup.carsoupdev",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "4YKMFV5JRB.com.carsoup.CarSoup",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
